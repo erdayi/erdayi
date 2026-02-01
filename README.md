@@ -1,49 +1,103 @@
-## 关于我
+<h1 align="center">你好，我是 erdayi</h1>
+<h3 align="center">全栈工程师 | Java & Python 后端开发</h3>
 
-全栈工程师，专注于 Java 与 Python 后端开发，具备微服务架构设计与全流程项目落地经验。
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erdayi&label=Profile%20views&color=0e75b6&style=flat" alt="erdayi" />
+</p>
 
 ---
 
-## 技术栈
+### 个人简介
+
+全栈工程师，专注于 **Java** 与 **Python** 双后端技术栈开发。深耕在线判题系统、微服务架构设计等领域，具备从需求分析、架构设计、开发实现到部署运维的全流程项目交付能力。
+
+---
+
+### 技术栈
 
 **Backend**
-- Java: Spring Boot, Spring Cloud, MyBatis-Plus
-- Python: FastAPI, Django, Flask
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-DC382D?style=for-the-badge&logo=mybatis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Database & Middleware**
-- MySQL, PostgreSQL, Redis, RabbitMQ
 
-**DevOps**
-- Docker, Nginx, Linux, Git
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
----
+**DevOps & Tools**
 
-## 项目经历
-
-### GOJ - 在线判题系统
-> Java / Spring Boot / Docker / Redis
-
-在线编程评测平台，支持多语言代码提交与沙箱隔离执行，具备题目管理、用户系统、判题队列等完整功能模块。
-
-### Python 数据分析项目集
-> Python / Pandas / NumPy / Matplotlib
-
-累计完成 [200+ 原创数据分析项目](https://codebuildream.blog.csdn.net/article/details/141330011)，涵盖数据清洗、可视化分析、机器学习建模等方向。
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 核心能力
+### 项目经历
 
-- **微服务架构**: 熟练运用 Spring Cloud 生态构建分布式系统
-- **性能调优**: 具备 SQL 优化、JVM 调优、系统瓶颈定位能力
-- **双栈开发**: Java / Python 技术栈灵活切换，适应不同业务场景
-- **全流程交付**: 从需求分析、技术选型到开发部署的完整项目经验
+<table>
+  <tr>
+    <td width="50%">
+      <h4>GOJ - 在线判题系统</h4>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Docker</code> <code>Redis</code></p>
+      <p>开源在线编程评测平台，支持多语言代码提交与沙箱隔离执行。包含题目管理、用户系统、判题队列、代码沙箱等核心模块，具备高并发处理能力。</p>
+    </td>
+    <td width="50%">
+      <h4>Python 数据分析项目集</h4>
+      <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code></p>
+      <p>累计完成 <a href="https://codebuildream.blog.csdn.net/article/details/141330011">200+ 原创数据分析项目</a>，涵盖数据清洗、特征工程、可视化分析、机器学习建模等方向。</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 联系方式
+### 核心能力
 
-- **CSDN**: [码界筑梦坊](https://blog.csdn.net/qq_53846367)
-- **Bilibili**: [码界筑梦坊](https://space.bilibili.com/352427998)
-- **微信公众号**: 码界筑梦坊
-- **QQ**: 3786612605
+| 能力方向 | 详细描述 |
+|---------|---------|
+| **微服务架构** | 熟练运用 Spring Cloud 生态（Gateway、Nacos、Feign）构建分布式系统 |
+| **性能调优** | 具备 SQL 慢查询优化、JVM 参数调优、系统瓶颈定位与问题排查能力 |
+| **双栈开发** | Java / Python 技术栈灵活切换，根据业务场景选择最优技术方案 |
+| **全流程交付** | 从需求分析、技术选型、架构设计到开发部署的完整项目落地经验 |
+
+---
+
+### GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erdayi&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Langs" />
+</p>
+
+---
+
+### 联系方式
+
+<p align="center">
+  <a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/></a>
+  <a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+</p>
+
+| 平台 | 联系方式 |
+|-----|---------|
+| 微信公众号 | **码界筑梦坊** |
+| QQ | **3786612605** |
+
+---
+
+<p align="center">
+  <b>期待与您交流技术，共同进步！</b>
+</p>
