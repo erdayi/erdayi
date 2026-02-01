@@ -89,18 +89,6 @@
 
 ---
 
-### GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erdayi&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Langs" />
-</p>
-
----
-
 ### 联系方式
 
 <p align="center">
