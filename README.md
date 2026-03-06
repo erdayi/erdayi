@@ -84,7 +84,7 @@
 
 - **我的经历**：从研一入门到项目实战，一名后端开发者的成长手记
 - **开源作品**：在线判题系统 GOJ（Java）
-- **Python 项目**：[近 200 套 Python 个人原创数据分析项目](https://codebuildream.blog.csdn.net/article/details/141330011)
+- **Python 项目**：[近 350 套 Python 个人原创数据分析项目](https://codebuildream.blog.csdn.net/article/details/141330011)
 - **干货分享**：CSDN 技术博客 | GitHub 项目开源笔记 | 后端开发踩坑指南
 
 ---
