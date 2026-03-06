@@ -22,21 +22,17 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const 码界筑梦坊 = {
-    role: "Full Stack Developer",
-    focus: ["Java Backend", "Python Backend", "微服务架构"],
-    skills: {
-        java:   ["Spring Boot", "Spring Cloud", "MyBatis-Plus"],
-        python: ["Flask", "Django", "FastAPI"],
-        db:     ["MySQL", "Redis", "PostgreSQL", "RabbitMQ"],
-        devops: ["Docker", "Nginx", "Linux", "Git"]
-    },
-    website: "www.dreamcodes.cn",
-    blog: "350+ 原创 Python 数据分析项目",
-    motto: "用代码筑梦，以技术赋能"
-};
-```
+> ☕ 主攻 **Java & Python 双栈后端**，精通 Spring Boot / Spring Cloud 微服务生态
+>
+> 🐍 熟练运用 Flask、Django、FastAPI 等 Python 框架
+>
+> 🏗️ 深耕在线判题系统（GOJ）、数据分析等实战项目
+>
+> 📊 累计完成 [**350+ 原创 Python 数据分析项目**](https://codebuildream.blog.csdn.net/article/details/141330011)
+>
+> 💡 擅长微服务架构设计、性能调优、全链路技术交付
+>
+> 🌐 个人网站：**[www.dreamcodes.cn](https://www.dreamcodes.cn)**
 
 <br/>
 
