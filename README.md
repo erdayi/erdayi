@@ -1,29 +1,28 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF8F5E&height=150&section=header&text=Code%20Dream%20Workshop&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20%26%20Python%20Full%20Stack%20Developer&descSize=16&descColor=ffffff&descAlignY=55" />
 
 <!-- Typing Effect -->
-<a href="https://erdayi.github.io/Home_Page/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+%E7%A0%81%E7%95%8C%E7%AD%91%E6%A2%A6%E5%9D%8A;Java+%26+Python+Full+Stack+Developer" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/%F0%9F%8C%90_dreamcodes.cn-FF6B35?style=flat-square" /></a>&nbsp;
-<a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_GitHub_%E4%B8%BB%E9%A1%B5-2D3436?style=flat-square" /></a>&nbsp;
-<a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/%F0%9F%93%9D_CSDN_%E5%8D%9A%E5%AE%A2-FC5531?style=flat-square" /></a>&nbsp;
-<a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/%F0%9F%8E%AC_Bilibili-00A1D6?style=flat-square" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=FF6B35&center=true&vCenter=true&repeat=true&width=440&height=45&lines=Hey+%F0%9F%91%8B+I'm+Code+Dream+Workshop;Building+things+with+Java+%26+Python;Microservices+%7C+Data+Analysis+%7C+DevOps;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=erdayi&style=flat-square&color=FF6B35&label=Profile+Views" />
+<!-- Badge Bar -->
+<a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/Website-dreamcodes.cn-FF6B35?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
+<a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Page-2D3436?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&nbsp;
+<a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Video-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=erdayi&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
 > ☕ 主攻 **Java & Python 双栈后端**，精通 Spring Boot / Spring Cloud 微服务生态
 >
@@ -43,7 +42,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,flask,django,fastapi,mysql,redis&perline=8" />
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,rabbitmq,docker,nginx,linux,git,js,vue&perline=8" />
 </div>
 
@@ -88,13 +87,11 @@
 
 <div align="center">
 
-<!-- Stats Card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=erdayi&show_icons=true&theme=github_dark&hide_border=true&role=OWNER,COLLABORATOR" />
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=erdayi&show_icons=true&hide_border=true&title_color=FF6B35&icon_color=FF6B35&role=OWNER,COLLABORATOR" />
 </picture>
 &nbsp;&nbsp;
-<!-- Top Languages - using skillicons approach instead of broken stats card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&hide_border=true&title_color=FF6B35&langs_count=8" />
@@ -102,20 +99,11 @@
 
 <br/><br/>
 
-<!-- Streak Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=erdayi&theme=github-dark-blue&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
   <img src="https://streak-stats.demolab.com?user=erdayi&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
 </picture>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erdayi&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 ---
@@ -131,7 +119,7 @@
 
 ---
 
-## 📬 Contact
+## 📬 Get in Touch
 
 <div align="center">
 
@@ -160,9 +148,8 @@
 
 <div align="center">
 
-<i>⭐ 如果我的项目对你有帮助，欢迎 Star！期待与你交流技术，共同进步</i>
+<i>⭐ Star my repos if you find them helpful!</i>
 
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF8F5E&height=100&section=footer" />
 
 </div>
