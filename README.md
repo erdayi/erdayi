@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF8F5E&height=150&section=header&text=Code%20Dream%20Workshop&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20%26%20Python%20Full%20Stack%20Developer&descSize=16&descColor=ffffff&descAlignY=55" />
 
 <!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=FF6B35&center=true&vCenter=true&repeat=true&width=440&height=45&lines=Hey+%F0%9F%91%8B+I'm+Code+Dream+Workshop;Building+things+with+Java+%26+Python;Microservices+%7C+Data+Analysis+%7C+DevOps;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1500&color=FF6B35&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Hey+there!+Welcome+to+my+GitHub;Java+%2B+Python+Full+Stack+Developer;Microservices+%7C+Data+Analysis+%7C+DevOps;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <br/><br/>
 
