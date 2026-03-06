@@ -1,19 +1,26 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A8_Code_Dream_Workshop-FF6B35?style=for-the-badge&logoColor=white" height="40" />
-</h1>
+<div align="center">
 
-<h3 align="center">Java & Python Full Stack Developer</h3>
+<!-- Custom Header -->
+<img width="100%" src="https://raw.githubusercontent.com/erdayi/erdayi/main/assets/header.svg" />
 
-<p align="center">
-  <a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/Website-dreamcodes.cn-FF6B35?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
-  <a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Page-2D3436?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&nbsp;
-  <a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Video-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-</p>
+<!-- Typing Effect -->
+<a href="https://erdayi.github.io/Home_Page/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=FF6B35&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Java+%2B+Python+Full+Stack+Developer;Microservices+%7C+Data+Analysis+%7C+DevOps;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erdayi&style=flat-square&color=FF6B35&label=Profile+Views" />
-</p>
+<br/>
+
+<!-- Badge Bar -->
+<a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/Website-dreamcodes.cn-FF6B35?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
+<a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Page-2D3436?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&nbsp;
+<a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Video-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=erdayi&style=flat-square&color=FF6B35&label=Profile+Views" />
+
+</div>
 
 ---
 
@@ -35,7 +42,9 @@
 
 ## 🛠️ Tech Stack
 
-**Backend** &nbsp;&nbsp;
+<div align="center">
+
+**Backend** &nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -44,19 +53,21 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 
-**Database** &nbsp;&nbsp;
+**Database & Middleware** &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**DevOps** &nbsp;&nbsp;
+**DevOps & Frontend** &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+</div>
 
 ---
 
@@ -105,8 +116,8 @@
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&hide_border=true&title_color=FF6B35&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=erdayi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=erdayi&layout=compact&hide_border=true&title_color=FF6B35&langs_count=8" />
 </picture>
 
 <br/><br/>
@@ -156,4 +167,10 @@
 
 ---
 
-<p align="center"><i>⭐ Star my repos if you find them helpful!</i></p>
+<div align="center">
+
+<i>⭐ Star my repos if you find them helpful!</i>
+
+<img width="100%" src="https://raw.githubusercontent.com/erdayi/erdayi/main/assets/footer.svg" />
+
+</div>
