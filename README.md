@@ -1,24 +1,19 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Code_Dream_Workshop-FF6B35?style=for-the-badge&logoColor=white" height="40" />
+</h1>
 
-<!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF8F5E&height=150&section=header&text=Code%20Dream%20Workshop&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20%26%20Python%20Full%20Stack%20Developer&descSize=16&descColor=ffffff&descAlignY=55" />
+<h3 align="center">Java & Python Full Stack Developer</h3>
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1500&color=FF6B35&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Hey+there!+Welcome+to+my+GitHub;Java+%2B+Python+Full+Stack+Developer;Microservices+%7C+Data+Analysis+%7C+DevOps;Open+Source+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/Website-dreamcodes.cn-FF6B35?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
+  <a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Page-2D3436?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&nbsp;
+  <a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Video-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+</p>
 
-<br/><br/>
-
-<!-- Badge Bar -->
-<a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/Website-dreamcodes.cn-FF6B35?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
-<a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Page-2D3436?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&nbsp;
-<a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Video-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=erdayi&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erdayi&style=flat-square&color=FF6B35&label=Profile+Views" />
+</p>
 
 ---
 
@@ -40,11 +35,28 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,django,fastapi,mysql,redis&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,rabbitmq,docker,nginx,linux,git,js,vue&perline=8" />
-</div>
+**Backend** &nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+
+**Database** &nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**DevOps** &nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ---
 
@@ -121,13 +133,11 @@
 
 ## 📬 Get in Touch
 
-<div align="center">
-
-<a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/dreamcodes.cn-FF6B35?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
-<a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&nbsp;
-<a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-
-</div>
+<p align="center">
+  <a href="https://www.dreamcodes.cn"><img src="https://img.shields.io/badge/dreamcodes.cn-FF6B35?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
+  <a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" /></a>&nbsp;
+  <a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+</p>
 
 <details>
 <summary align="center"><b>📇 更多联系方式</b></summary>
@@ -146,10 +156,4 @@
 
 ---
 
-<div align="center">
-
-<i>⭐ Star my repos if you find them helpful!</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF8F5E&height=100&section=footer" />
-
-</div>
+<p align="center"><i>⭐ Star my repos if you find them helpful!</i></p>
