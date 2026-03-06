@@ -1,8 +1,11 @@
 <div align="center">
 
+<!-- Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=&fontSize=0" />
+
 <!-- Typing Effect -->
 <a href="https://erdayi.github.io/Home_Page/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=460&height=55&lines=%F0%9F%91%8B+Hey%2C+I'm+%E7%A0%81%E7%95%8C%E7%AD%91%E6%A2%A6%E5%9D%8A;Full+Stack+Developer;Java+%26+Python+Backend;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+%E7%A0%81%E7%95%8C%E7%AD%91%E6%A2%A6%E5%9D%8A;Java+%26+Python+Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +21,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 🧑‍💻 About Me
 
@@ -34,34 +37,17 @@
 >
 > 🌐 个人网站：**[www.dreamcodes.cn](https://www.dreamcodes.cn)**
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="40" /><br/><sub>Java</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="40" /><br/><sub>Spring</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="40" /><br/><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40" /><br/><sub>Flask</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="40" /><br/><sub>Django</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="40" /><br/><sub>FastAPI</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/><sub>MySQL</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="40" /><br/><sub>Redis</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40" /><br/><sub>PostgreSQL</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" /><br/><sub>RabbitMQ</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" /><br/><sub>Docker</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="40" /><br/><sub>Nginx</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" /><br/><sub>Linux</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" /><br/><sub>Git</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" /><br/><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="40" /><br/><sub>Vue</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,django,fastapi,mysql,redis&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,rabbitmq,docker,nginx,linux,git,js,vue&perline=8" />
+</div>
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
@@ -96,32 +82,54 @@
   </tr>
 </table>
 
-<br/>
+---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=erdayi&show_icons=true&theme=github_dark&hide_border=true&role=OWNER,COLLABORATOR" />
-    <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=erdayi&show_icons=true&hide_border=true&title_color=FF6B35&icon_color=FF6B35&role=OWNER,COLLABORATOR" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=erdayi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-    <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=erdayi&layout=compact&hide_border=true&title_color=FF6B35&langs_count=6" />
-  </picture>
+
+<!-- Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=erdayi&show_icons=true&theme=github_dark&hide_border=true&role=OWNER,COLLABORATOR" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=erdayi&show_icons=true&hide_border=true&title_color=FF6B35&icon_color=FF6B35&role=OWNER,COLLABORATOR" />
+</picture>
+&nbsp;&nbsp;
+<!-- Top Languages - using skillicons approach instead of broken stats card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdayi&layout=compact&hide_border=true&title_color=FF6B35&langs_count=8" />
+</picture>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=erdayi&theme=github-dark-blue&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+  <img src="https://streak-stats.demolab.com?user=erdayi&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+</picture>
+
 </div>
 
-<br/>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erdayi&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</div>
+
+---
+
+## 📊 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=erdayi&theme=github-dark-blue&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
-    <img src="https://streak-stats.demolab.com?user=erdayi&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=erdayi&theme=github-dark&hide_border=true&area=true&color=FF6B35&line=FF6B35&point=ffffff" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=erdayi&theme=minimal&hide_border=true&area=true&color=FF6B35&line=FF6B35&point=2D3436" />
   </picture>
 </div>
 
-<br/>
+---
 
 ## 📬 Contact
 
@@ -151,5 +159,10 @@
 ---
 
 <div align="center">
-  <i>⭐ 如果我的项目对你有帮助，欢迎 Star！期待与你交流技术，共同进步</i>
+
+<i>⭐ 如果我的项目对你有帮助，欢迎 Star！期待与你交流技术，共同进步</i>
+
+<!-- Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=80&section=footer" />
+
 </div>
