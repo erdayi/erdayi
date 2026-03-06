@@ -2,6 +2,9 @@
 <h3 align="center">全栈工程师 | Java & Python 后端开发</h3>
 <h4 align="center">个人网站 | www.dreamcodes.cn 欢迎访问</h4>
 <p align="center">
+  <a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/个人主页-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="个人主页"/></a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=erdayi&label=Profile%20views&color=0e75b6&style=flat" alt="erdayi" />
 </p>
 
@@ -92,6 +95,7 @@
 ### 联系方式
 
 <p align="center">
+  <a href="https://erdayi.github.io/Home_Page/"><img src="https://img.shields.io/badge/个人主页-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="个人主页"/></a>
   <a href="https://blog.csdn.net/qq_53846367"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/></a>
   <a href="https://space.bilibili.com/352427998"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
 </p>
