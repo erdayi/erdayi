@@ -126,6 +126,19 @@
 
 ---
 
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erdayi/erdayi/output/github-snake-dark.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/erdayi/erdayi/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📊 Contribution Graph
 
 <div align="center">
@@ -133,6 +146,16 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=erdayi&theme=github-dark&hide_border=true&area=true&color=FF6B35&line=FF6B35&point=ffffff" />
     <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=erdayi&theme=minimal&hide_border=true&area=true&color=FF6B35&line=FF6B35&point=2D3436" />
   </picture>
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true&quote_color=FF6B35" />
+
 </div>
 
 ---
